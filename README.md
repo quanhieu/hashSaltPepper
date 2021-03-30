@@ -1,2 +1,2 @@
 # hashSaltPepper
-Easy hash salt pepper
+Easy hash with salt and pepper
